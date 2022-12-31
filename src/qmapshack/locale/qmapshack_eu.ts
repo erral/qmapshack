@@ -109,22 +109,22 @@
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="349"/>
         <source>Speed Moving:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mugitzeko abiadura:</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="373"/>
         <source>Speed Total:</source>
-        <translation type="unfinished"></translation>
+        <translation>Guztizko abiadura:</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="397"/>
         <source>Time Moving:</source>
-        <translation type="unfinished"></translation>
+        <translation>Denbora mugimenduan:</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="421"/>
         <source>Time Total:</source>
-        <translation type="unfinished"></translation>
+        <translation>Guztizko denbora:</translation>
     </message>
 </context>
 <context>
@@ -132,17 +132,17 @@
     <message>
         <location filename="../canvas/CCanvas.cpp" line="85"/>
         <source>View %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikusi %1</translation>
     </message>
     <message>
         <location filename="../canvas/CCanvas.cpp" line="216"/>
         <source>None selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezer ez dago aukeratuta</translation>
     </message>
     <message>
         <location filename="../canvas/CCanvas.cpp" line="221"/>
         <source>&lt;p align=&apos;right&apos;&gt;This help will be closed the moment you activate a map.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&apos;right&apos;&gt;Laguntza hau itxi egingo da mapa bat aktibatzen duzunean.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../canvas/CCanvas.cpp" line="224"/>
@@ -177,12 +177,12 @@
     <message>
         <location filename="../canvas/CCanvas.cpp" line="1171"/>
         <source>Map Projection...</source>
-        <translation type="unfinished"></translation>
+        <translation>Maparen proiekzioa...</translation>
     </message>
     <message>
         <location filename="../canvas/CCanvas.cpp" line="1172"/>
         <source>Failed to setup map projection. Please configure a valid projection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huts egin du maparen proiekzioa ezartzean. Konfiguratu mesedez proiekzio zuzen bat.</translation>
     </message>
     <message>
         <location filename="../canvas/CCanvas.cpp" line="291"/>
@@ -217,7 +217,7 @@
     <message>
         <location filename="../canvas/CCanvas.cpp" line="1100"/>
         <source>Setup Map Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezarri maparen atzeko planoa</translation>
     </message>
 </context>
 <context>
@@ -225,32 +225,32 @@
     <message>
         <location filename="../setup/CCommandProcessor.cpp" line="31"/>
         <source>Print debug output to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inprimatu arazteko informazioa kontsolara.</translation>
     </message>
     <message>
         <location filename="../setup/CCommandProcessor.cpp" line="34"/>
         <source>Print debug output to logfile (temp. path).</source>
-        <translation type="unfinished"></translation>
+        <translation>Inprimatu arazteko informazioa log fitxategi baterna (aldi baterako fitxategien karpetara).</translation>
     </message>
     <message>
         <location filename="../setup/CCommandProcessor.cpp" line="37"/>
         <source>Do not show splash screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez erakutsi hasierako pantaila.</translation>
     </message>
     <message>
         <location filename="../setup/CCommandProcessor.cpp" line="40"/>
         <source>File with QMapShack configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>QMapShack konfigurazioa duen fitxategia.</translation>
     </message>
     <message>
         <location filename="../setup/CCommandProcessor.cpp" line="40"/>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>fitxategia</translation>
     </message>
     <message>
         <location filename="../setup/CCommandProcessor.cpp" line="43"/>
         <source>Files for future use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Etorkizunean erabiltzeko fitxategiak.</translation>
     </message>
 </context>
 <context>

@@ -6,22 +6,22 @@
     <message>
         <location filename="../CAbout.cpp" line="44"/>
         <source>%1 (API V%2, expected V%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (API V%2, V%3 espero zen)</translation>
     </message>
     <message>
         <location filename="../CAbout.cpp" line="48"/>
         <source>%1 (API V%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (API V%2)</translation>
     </message>
     <message>
         <location filename="../CAbout.cpp" line="55"/>
         <source>(no DBUS: device detection and handling disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ez dago DBUS: gailua detektatzea eta kudeatzeak desaktibatuta dago)</translation>
     </message>
     <message>
         <location filename="../CAbout.cpp" line="59"/>
         <source>If you think your name is missing you probably have forgotten to add your copyright in the source files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zure izena falta dela uste baduzu agian iturburu fitxategien copyright oharrean gehitzea ahaztu zaizu.</translation>
     </message>
 </context>
 <context>
@@ -29,82 +29,82 @@
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="105"/>
         <source>No Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez dago ekintzarik</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="271"/>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Guztira</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="301"/>
         <source>Ascent:</source>
-        <translation type="unfinished"></translation>
+        <translation>Igotzen:</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="325"/>
         <source>Descent:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaisten:</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="277"/>
         <source>Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distantzia:</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="53"/>
         <source>Foot</source>
-        <translation type="unfinished"></translation>
+        <translation>Oinez</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="54"/>
         <source>Bicycle</source>
-        <translation type="unfinished"></translation>
+        <translation>Bizikletaz</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="55"/>
         <source>Motor Bike</source>
-        <translation type="unfinished"></translation>
+        <translation>Motorrez</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="56"/>
         <source>Car</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotxean</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="57"/>
         <source>Cable Car</source>
-        <translation type="unfinished"></translation>
+        <translation>Teleferikoz</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="58"/>
         <source>Swim</source>
-        <translation type="unfinished"></translation>
+        <translation>Igerian</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="59"/>
         <source>Ship</source>
-        <translation type="unfinished"></translation>
+        <translation>Itsasontziz</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="60"/>
         <source>Aeronautic</source>
-        <translation type="unfinished"></translation>
+        <translation>Hegan</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="61"/>
         <source>Ski/Winter</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski/Negukoa</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="62"/>
         <source>Public Transport</source>
-        <translation type="unfinished"></translation>
+        <translation>Garraio publikoa</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="101"/>
         <source>Set Track Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezarri arrastoaren ekintza</translation>
     </message>
     <message>
         <location filename="../gis/trk/CActivityTrk.cpp" line="349"/>
